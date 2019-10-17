@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>Advanced Twitter Recognition</FRIENDLY_NAME>
+  <DLL_FILENAME>Behavior_Control_Advanced_Twitter.dll</DLL_FILENAME>
+  <AUTHOR_NAME>DJ Sures</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>e4395897-f052-4dcd-8acc-e5e6ff8fc5e8</PLUGIN_GUID>
+  <CATEGORY_TYPE>Misc</CATEGORY_TYPE>
+  <DESCRIPTION>Retrieve twitter tweets and process them to have your robot do cool stuff via twitter posts.</DESCRIPTION>
+  <VersionRelease>2</VersionRelease>
+</PluginV1XML>
