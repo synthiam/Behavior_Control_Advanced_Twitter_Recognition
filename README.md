@@ -14,7 +14,7 @@ Synthiam Website: https://synthiam.com
 
 ![Synthiam](https://live.staticflickr.com/65535/47791527651_358dffb302_m.jpg)
 
-Software: Programming With Pictures
+Software: Behavior Control Advanced Twitter Recognition
 
 License: Apache 2.0
 
