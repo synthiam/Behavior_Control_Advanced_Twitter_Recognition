@@ -2,7 +2,7 @@
 
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
-Please see [LICENSE.md](https://github.com/synthiam/Behavior_Control_Ohmni_Telepresence/blob/master/LICENSE.md) for license details.
+Please see [LICENSE.md](https://github.com/synthiam/Behavior_Control_Advanced_Twitter_Recognition/blob/master/LICENSE.md) for license details.
 
 Synthiam Website: https://synthiam.com
 
